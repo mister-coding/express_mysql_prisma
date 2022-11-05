@@ -1,0 +1,1 @@
+cat ./prisma/module/* > ./prisma/schema.prisma
